@@ -4,6 +4,9 @@
 # Batch Bash Test Runner
 # USEAGE:
 # Run inside project root, make sure CHMOD 777 to execute and run inside directory
+# 
+# .txt files contain the input
+# .txt.expected files contain the output
 #----------------------------------------------------------------------------------------
 
 correct=0
